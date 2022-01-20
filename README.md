@@ -1,4 +1,4 @@
-<h2> Hi, I'm Luis Miguel! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="50"></h2>
+<h2> Hi, I'm Luis Miguel! </h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 <p><em>Software Enginner at <a href="![image](https://user-images.githubusercontent.com/82968336/142276352-12d7ff7b-32d4-41a2-a16b-896d5d14fa5c.png)
  ">Bootcamp of Henry</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br>Full Stack Developer 
