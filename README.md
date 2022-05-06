@@ -20,7 +20,7 @@
 ```javascript
 const LuisRocca = {
   code: [Javascript, HTML, CSS, SQL ],
-  tools: [React, Redux, Node, Styled-Components, Jest, Express, PostgreSQL, mySQL, gulp, sas],
+  tools: [React,Angular,TypeScript, Redux, Node, Styled-Components, bootstrap, fireBase, Jest, Express, PostgreSQL, mySQL, gulp, sas, IONIC, ],
 }
 ```
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
