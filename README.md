@@ -19,8 +19,8 @@
 
 ```javascript
 const LuisRocca = {
-  code: [Javascript, HTML, CSS, SQL ],
-  tools: [React,Angular,TypeScript, Redux, Node, Styled-Components, bootstrap, fireBase, Jest, Express, PostgreSQL, mySQL, gulp, sas, IONIC, ],
+  code: [Javascript, TypeScript, HTML, CSS, SQL ],
+  tools: [React, Angular, Redux, Node, Styled-Components, bootstrap, fireBase, Jest, Express, PostgreSQL, mySQL, gulp, sas, IONIC, ],
 }
 ```
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
